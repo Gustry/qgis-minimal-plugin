@@ -1,6 +1,6 @@
 # QGIS Minimalist Plugin Skeleton
 
-[![Download](https://img.shields.io/badge/Download-ZIP-green)](./minimal_plugin.zip)
+[![Download](https://img.shields.io/badge/Download-ZIP-green)](https://raw.githubusercontent.com/Gustry/qgis_minimal_plugin/refs/heads/master/minimal_plugin.zip)
 
 In various QGIS plugin tutorials you are told to use _Plugin Builder_ tool to create a skeleton for your plugin.
 It is surely helpful as it helps you kickstart your plugin with stuff like UI designer file, auto tests, docs, i18n, scripts and so on.
